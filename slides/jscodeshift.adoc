@@ -14,5 +14,9 @@
 
 === Popular mods in the wild
 
-- https://github.com/reactjs/react-codemod[react-codemod]
-- https://github.com/skovhus/jest-codemods[jest-codemod]
+- https://github.com/reactjs/react-codemod[react-codemod^]
+- https://github.com/skovhus/jest-codemods[jest-codemod^]
+- https://github.com/cpojer/js-codemod[js-codemod^]
+- https://github.com/5to6/5to6-codemod[5to6-codemod^]
+- https://github.com/airbnb/ts-migrate[ts-migrate^]
+- https://github.com/search?p=2&q=codemod&type=Repositories[search on github^]
