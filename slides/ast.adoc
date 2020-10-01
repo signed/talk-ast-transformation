@@ -7,3 +7,23 @@
 === lets look at an example
 
 
+transformations vs refactoring
+
+[%notitle]
+=== refactoring as definition
+
+Refactoring::
+is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+
+[%notitle]
+=== Refactoring as quote
+[quote, Martin Fowler, https://refactoring.com]
+____
+*Refactoring* is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+____
+
+
+=== Popular examples
+- react code modes
+- jest code modes
+- others to find
