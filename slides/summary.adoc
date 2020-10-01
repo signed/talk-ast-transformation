@@ -20,3 +20,11 @@
 - you learn a lot about your codebase
 - its automated
 - you can include project specific knowledge into your mods (harder in an IDE)
+
+=== be pragmatic
+
+- If there is an edge case that is hard to automate and only occurs in few places, make the change by hand in a preparation step
+
+=== limitations
+
+- you only change one file at a time

@@ -10,3 +10,9 @@
 - fluent interface
 - show some examples
 - structure of a transform
+
+
+=== Popular mods in the wild
+
+- https://github.com/reactjs/react-codemod[react-codemod]
+- https://github.com/skovhus/jest-codemods[jest-codemod]
