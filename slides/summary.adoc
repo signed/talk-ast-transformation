@@ -1,10 +1,22 @@
 
 == Summary
 
+=== When not to sue
 - IDE already comes with a lot of transformations
   - learn what is there
   - learn what limitations there are
--
+- Small changes that can be done quickly
 
-When to write your own modes
--
+=== When it is an option
+- make a lot of changes across a code base
+- you have tests (typescript helps, too)
+
+=== Benefits
+- No need to rebase
+- can be done incrementally
+- no manual work
+- reusable
+- you can write tests for your mods
+- you learn a lot about your codebase
+- its automated
+- you can include project specific knowledge into your mods (harder in an IDE)
