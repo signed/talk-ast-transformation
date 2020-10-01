@@ -1,0 +1,13 @@
+{
+  "name": "@signed/talk-ast-transformation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "template for my slides",
+  "scripts": {
+    "present": "scribe"
+  },
+
+  "devDependencies": {
+    "@signed/scribe": "0.1.0"
+  }
+}

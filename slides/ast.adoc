@@ -1,0 +1,9 @@
+
+== Abstract Syntax Tree (AST)
+- babel uses ast transformations
+- prettier uses an ast, throws away formatting information and reprints
+- They actually do ast transformations when using no semicolon (copy example form codebase)
+
+=== lets look at an example
+
+

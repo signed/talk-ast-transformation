@@ -1,0 +1,2 @@
+
+== Replace console.log() with logger

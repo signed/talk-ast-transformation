@@ -1,0 +1,12 @@
+
+== https://github.com/facebook/jscodeshift|[jscodeshift^]
+
+- https://github.com/benjamn/recast
+- https://github.com/benjamn/ast-types
+- https://github.com/jquery/esprima
+
+
+=== Like working with collections
+- fluent interface
+- show some examples
+- structure of a transform

@@ -1,0 +1,10 @@
+
+== Summary
+
+- IDE already comes with a lot of transformations
+  - learn what is there
+  - learn what limitations there are
+-
+
+When to write your own modes
+-

@@ -1,0 +1,32 @@
+:icons: font
+:linkattrs:
+:slides: .
+:imagedir: ../images
+:customcss: ../styles/custom.css
+= Ast Transformation
+
+Code that writes code aka codemod
+
+
+include::{slides}/ast.adoc[]
+
+include::{slides}/jscodeshift.adoc[]
+
+include::{slides}/code-one.adoc[]
+
+include::{slides}/code-two.adoc[]
+
+include::{slides}/code-three.adoc[]
+
+include::{slides}/summary.adoc[]
+
+include::{slides}/sandbox.adoc[]
+
+== !
+That's it! +
+Any Questions?
+
+[%notitle]
+== Melting Pot
+image::{imagedir}/bumper.jpg[canvas,size=contain]
+
